@@ -14,7 +14,7 @@ The Tech Blog CMS is a Content Management System focused on tech content, follow
 
 To install and run the application, follow these steps:
 
-1. Clone the repository to your local machine: `git clone https://github.com/calzu0821/tech-blog-MVC.git`
+1. Clone the repository to your local machine: `git clone https://github.com/calzu0821/2tech-blog-MVC.git`
 2. Navigate to the project directory using the terminal.
 3. Run `npm install` to install the required dependencies.
 4. Create a .env file in the root directory of the project and add the following variables (Replace with your MYSQL database credentials.): 
